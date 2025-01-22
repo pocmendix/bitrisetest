@@ -756,7 +756,7 @@
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1";
 				VERSIONING_SYSTEM = "apple-generic";
-				PROVISIONING_PROFILE_SPECIFIER = "ProvisioningProfile11012024";
+				PROVISIONING_PROFILE_SPECIFIER = "AdhocBitrise_01222025";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Matthew Mano (4W6ZBZKXK2)";
 				CODE_SIGN_STYLE = Manual;
 			};
@@ -833,7 +833,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "$(PRODUCT_BUNDLE_IDENTIFIER)";
 				PRODUCT_NAME = "$(PRODUCT_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "ProvisioningProfile11012024";
+				PROVISIONING_PROFILE_SPECIFIER = "AdhocBitrise_01222025";
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${PROJECT_DIR} ${SRCROOT}/../node_modules/@mendix/native/ios";
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
@@ -888,7 +888,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "$(PRODUCT_BUNDLE_IDENTIFIER)";
 				PRODUCT_NAME = "$(PRODUCT_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "ProvisioningProfile11012024";
+				PROVISIONING_PROFILE_SPECIFIER = "AdhocBitrise_01222025";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Native Template iOS Pipeline DEBUG";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${SRCROOT}/../node_modules/@mendix/native/ios";
@@ -944,7 +944,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "$(PRODUCT_BUNDLE_IDENTIFIER)";
 				PRODUCT_NAME = "$(PRODUCT_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "ProvisioningProfile11012024";
+				PROVISIONING_PROFILE_SPECIFIER = "AdhocBitrise_01222025";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Native Template iOS Pipeline DEBUG";
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${SRCROOT}/../node_modules/@mendix/native/ios";
@@ -1021,7 +1021,7 @@
 				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 				DEVELOPMENT_TEAM = 4W6ZBZKXK2;
-				PROVISIONING_PROFILE_SPECIFIER = "ProvisioningProfile11012024";
+				PROVISIONING_PROFILE_SPECIFIER = "AdhocBitrise_01222025";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Matthew Mano (4W6ZBZKXK2)";
 				CODE_SIGN_STYLE = Manual;
 			};
@@ -1098,7 +1098,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "$(PRODUCT_BUNDLE_IDENTIFIER)";
 				PRODUCT_NAME = "$(PRODUCT_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "ProvisioningProfile11012024";
+				PROVISIONING_PROFILE_SPECIFIER = "AdhocBitrise_01222025";
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${PROJECT_DIR} ${SRCROOT}/../node_modules/@mendix/native/ios";
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
@@ -1153,7 +1153,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "$(PRODUCT_BUNDLE_IDENTIFIER)";
 				PRODUCT_NAME = "$(PRODUCT_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "ProvisioningProfile11012024";
+				PROVISIONING_PROFILE_SPECIFIER = "AdhocBitrise_01222025";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Native Template iOS Pipeline DEBUG";
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${SRCROOT}/../node_modules/@mendix/native/ios";
@@ -1235,7 +1235,7 @@
 				TARGETED_DEVICE_FAMILY = "1";
 				USE_HERMES = true;
 				DEVELOPMENT_TEAM = 4W6ZBZKXK2;
-				PROVISIONING_PROFILE_SPECIFIER = "ProvisioningProfile11012024";
+				PROVISIONING_PROFILE_SPECIFIER = "AdhocBitrise_01222025";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Matthew Mano (4W6ZBZKXK2)";
 				CODE_SIGN_STYLE = Manual;
 			};
@@ -1306,7 +1306,7 @@
 				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 				DEVELOPMENT_TEAM = 4W6ZBZKXK2;
-				PROVISIONING_PROFILE_SPECIFIER = "ProvisioningProfile11012024";
+				PROVISIONING_PROFILE_SPECIFIER = "AdhocBitrise_01222025";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Matthew Mano (4W6ZBZKXK2)";
 				CODE_SIGN_STYLE = Manual;
 			};

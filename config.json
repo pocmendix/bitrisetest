@@ -122,8 +122,8 @@
             "enabled": true
         }
     },
-    "appVersion": "0.0.31",
-    "buildNumber": 31,
+    "appVersion": "0.0.32",
+    "buildNumber": 32,
     "runtimeUrl": "https://overwatch100-accp.mendixcloud.com/",
     "hermesEnabled": true
 }
